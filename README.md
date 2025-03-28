@@ -18,9 +18,13 @@ Performance comparison between CNNs and Vision Transformers.
 Insights into interpretability and feature extraction from transformers.
 
 📁 Galaxy-Morphology-Classification-ViTs
+
 ├── 📄 Thesis Final.pdf       # Full thesis document
+
 ├── 📁 data                   # Dataset used for training and evaluation
+
 ├── 📄 Thesis Code.ipynb      # Jupyter notebook for training and analysis
+
 ├── 📄 README.md              # Project documentation
 
 
