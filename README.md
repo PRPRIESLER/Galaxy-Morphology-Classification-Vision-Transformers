@@ -32,6 +32,7 @@ Insights into interpretability and feature extraction from transformers.
 1️⃣ Clone the Repository
 
 git clone https://github.com/PRPRIESLER/Galaxy-Morphology-Classification-Vision-Transformers.git
+
 cd Galaxy-Morphology-Classification-Vision-Transformers
 
 Make sure you have Python 3.8+ installed. Then run:
